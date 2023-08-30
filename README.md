@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **vefaayyildiz/vefaayyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dayyildiz@floridapoly.edu or vefa@connectedwise.com
 - ⚡ Fun fact: I have a passion for both the skies above and the roads below, constantly working to make them smarter and safer with AI.
 
--->s
