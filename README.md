@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**vefaayyildiz/vefaayyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on autonomous driving systems for vehicles.
 - 🌱 I’m currently learning data science at the master's level.
 - 👯 I’m looking to collaborate on AI and machine learning projects, especially in the field of aerospace and automotive engineering.
